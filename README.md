@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hey!✨
 
+My name is Lujaina. I'm an incoming Engineering student at the University of Calgary. I'm a big believer in creating good things for the world and for others to enjoy, and while I'm not the biggest fan of software development myself, I like the feeling of playing mastermind. Whether you're poking around my Github to see what I'm working on or you want to know whether I'm really as good as I seem, I hope you find what you're looking for, and  free to reach out to me:)
 <!--
 **Lujaina-E/Lujaina-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+# Some wacky ideas I'm working on🔭
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
