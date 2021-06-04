@@ -10,9 +10,8 @@ My name is Lujaina. I'm an incoming Engineering student at the University of Cal
 
 ### Currently Figuring out...🤔
 
-I'll come back  to this later...
+Come back to me on this...
 
-<hr>
 # ✨ Reach Out
 I'd love to chat and exchange ideas or simply gain another perspective on anything tech, but specifically ML. 
 
