@@ -16,8 +16,8 @@ I'll come back  to this later...
 <hr>
 # ✨ Reach Out
 I'd love to chat and exchange ideas or simply gain another perspective on anything tech, but specifically ML. 
-- <a  href="mailto:lujaina.eldelebshany@gmail.com?
-          subject = Github Reachout">Email </a>
+
+- <a  href="mailto:lujaina.eldelebshany@gmail.com subject = Github Reachout">Email </a>
           
 - <a href="https://www.linkedin.com/in/lujaina-eldelebshany-0029bb1b3/">LinkedIn</a>
 
