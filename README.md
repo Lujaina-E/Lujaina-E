@@ -13,7 +13,7 @@ My name is Lujaina. I'm an incoming Engineering student at the University of Cal
 I'll add to this as I go along:)
 
 # ✨ Reach Out
-I'd love to chat and exchange ideas or simply gain another perspective on anything tech, but specifically ML. 
+I'd love to chat and exchange ideas or simply gain another perspective on anything tech, especially ML. 
 
 - <a  href="mailto:lujaina.eldelebshany@gmail.com subject = Github Reachout">Email </a>
           
