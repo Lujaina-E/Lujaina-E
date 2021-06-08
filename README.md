@@ -5,7 +5,7 @@ My name is Lujaina. I'm an incoming Engineering student at the University of Cal
 ### Ideas I'm Working On 🔭 
 
 - personal website
-- supervised learning trend predictor for COVID-19 cases
+- COVID-19 vaccine-related project
 - Configuring hardware components for an upcoming project
 
 ### Currently Figuring out...🤔
