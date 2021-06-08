@@ -10,7 +10,9 @@ My name is Lujaina. I'm an incoming Engineering student at the University of Cal
 
 ### Currently Figuring out...🤔
 
-I'll add to this as I navigate through them
+- JavaScript for web development
+- Logistic Regression
+- Decision Tree Classification
 
 # ✨ Reach Out
 I'd love to chat and exchange ideas or simply gain another perspective on anything tech, especially ML. 
