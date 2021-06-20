@@ -2,7 +2,7 @@
 
 My name is Lujaina. I'm an incoming Engineering student at the University of Calgary. I'm looking to expand my skillset, specifically pertaining to the human/tech interface and the machine learning that comes with it. I'm a big believer in creating good things for the world and for others to enjoy, and while I'm not the biggest fan of software development myself, I like the feeling of playing mastermind. Whether you're poking around my Github to see what I'm working on or you want to know whether I'm really as good as I act, I hope you find what you're looking for, and free to shoot me a message using the links below:)
 
-### Ideas I'm Working On 🔭 
+### Projects I'm Working On 🔭 
 
 - personal website
 - COVID-19 vaccine-related project
@@ -11,6 +11,7 @@ My name is Lujaina. I'm an incoming Engineering student at the University of Cal
 ### Currently Figuring out...🤔
 
 - JavaScript for web development
+- Deployment via Heroku
 - Logistic Regression
 - Decision Tree Classification
 
