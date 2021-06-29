@@ -5,14 +5,12 @@ My name is Lujaina. I'm an incoming Engineering student at the University of Cal
 ### Projects I'm Working On 🔭 
 
 - personal website
-- COVID-19 vaccine-related project
 - Configuring hardware components for an upcoming project
 
 ### Currently Figuring out...🤔
 
 - JavaScript for web development
 - Deployment via Heroku
-- Logistic Regression
 - Decision Tree Classification
 
 # ✨ Reach Out
