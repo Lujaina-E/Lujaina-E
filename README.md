@@ -14,6 +14,4 @@ I'd love to chat and exchange ideas or simply gain another perspective on anythi
 - <a  href="mailto:lujaina.eldelebshany@gmail.com subject = Github Reachout">Email </a>
           
 
-![snake gif]
-
-https://github.com/Lujaina-E/Lujaina-E/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
