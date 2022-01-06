@@ -15,5 +15,5 @@ I'd love to chat and exchange ideas or simply gain another perspective on anythi
           
 
 
-![snake gif](https://github.com/Lujaina-E/Lujaina-E/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Lujaina-E/Lujaina-E/blob/output/github-contribution-grid-snake.svg)
 
