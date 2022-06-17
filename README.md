@@ -4,12 +4,11 @@ My name is Lujaina. I'm a first year Engineering student at the University of Ca
 
 ### Currently Figuring out...
 
-- JavaScript for web development
 - Deployment via Heroku
-- Decision Tree Classification
+- ML side projects
 
 #  Reach Out
-I'd love to chat and exchange ideas or simply gain another perspective on anything tech, especially ML. 
+I'd love to chat and exchange ideas or simply gain another perspective on anything. 
 - <a href="https://www.linkedin.com/in/lujaina-eldelebshany-0029bb1b3/">LinkedIn</a>
 - <a  href="mailto:lujaina.eldelebshany@gmail.com subject = Github Reachout">Email </a>
           
